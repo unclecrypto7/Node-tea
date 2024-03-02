@@ -1,2 +1,7 @@
-# Node-tea
-This repositori partising to tea protocol
+echo "# Tea-Jp" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/unclecrypto7/Tea-Jp.git
+git push -u origin main
